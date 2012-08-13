@@ -1,5 +1,10 @@
 [
   {
+    "collection": "enlightenedstructure-org",
+    "slug": "Home",
+    "updated": "2012-08-13T07:20:38Z"
+  },
+  {
     "collection": "allisasis-info",
     "slug": "home",
     "updated": "2012-08-13T07:17:24Z"
@@ -9,12 +14,6 @@
     "title": null,
     "slug": "core-protocols-perfection-game",
     "updated": "2012-08-07T19:56:16Z"
-  },
-  {
-    "collection": "enlightenedstructure-org",
-    "title": null,
-    "slug": "Home",
-    "updated": "2012-08-07T19:42:32Z"
   },
   {
     "collection": "p2pfoundation-net",
@@ -45,12 +44,6 @@
     "title": null,
     "slug": "Core_Network",
     "updated": "2012-08-06T21:25:45Z"
-  },
-  {
-    "collection": "enlightenedstructure-org",
-    "title": null,
-    "slug": "Home",
-    "updated": "2012-08-06T06:06:05Z"
   },
   {
     "collection": "liveingreatness-com",
