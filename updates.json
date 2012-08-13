@@ -1,5 +1,10 @@
 [
   {
+    "collection": "p2pfoundation-net",
+    "slug": "Category:P2P_Infrastructure",
+    "updated": "2012-08-13T07:35:43Z"
+  },
+  {
     "collection": "enlightenedstructure-org",
     "slug": "Home",
     "updated": "2012-08-13T07:20:38Z"
@@ -20,12 +25,6 @@
     "title": null,
     "slug": "Ten_Principles_for_an_Autonomous_Internet",
     "updated": "2012-08-07T05:59:48Z"
-  },
-  {
-    "collection": "p2pfoundation-net",
-    "title": null,
-    "slug": "Category:P2P_Infrastructure",
-    "updated": "2012-08-07T04:27:19Z"
   },
   {
     "collection": "emergentbydesign-com",
