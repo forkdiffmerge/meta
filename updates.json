@@ -1,5 +1,10 @@
 [
   {
+    "collection": "p2pfoundation.net",
+    "slug": "Unhosted",
+    "updated": "2012-10-11T13:57:52Z"
+  },
+  {
     "collection": "en.wikipedia.org",
     "slug": "wiki-Lion",
     "updated": "2012-10-08T21:19:24Z"
@@ -48,11 +53,6 @@
     "collection": "cocreatr.typepad.com",
     "slug": "everyone_is_a_beginner_or-2012-06-someone-youd-want-to-work-with-",
     "updated": "2012-08-15T08:06:58Z"
-  },
-  {
-    "collection": "p2pfoundation.net",
-    "slug": "Unhosted",
-    "updated": "2012-08-15T07:35:01Z"
   },
   {
     "collection": "alchemyofchange.net",
