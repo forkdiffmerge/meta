@@ -5,31 +5,6 @@
     "updated": "2012-11-08T10:24:09Z"
   },
   {
-    "collection": "logilab.org",
-    "slug": "view-rql-Any-20X-2CT-2CCD-20ORDERBY-20CD-20DESC-20WHERE-20X-20is-20IN-28MicroBlogEntry-2C-20BlogEntry-29-2C-20X-20title-20T-2C-20X-20creation_date-20CD-page_size-10",
-    "updated": "2012-11-08T10:06:03Z"
-  },
-  {
-    "collection": "logilab.org",
-    "slug": "view-rql-Any%20X%2CT%2CCD%20ORDERBY%20CD%20DESC%20WHERE%20X%20is%20IN%28MicroBlogEntry%2C%20BlogEntry%29%2C%20X%20title%20T%2C%20X%20creation_date%20CD-page_size-10",
-    "updated": "2012-11-08T10:04:06Z"
-  },
-  {
-    "collection": "logilab.org",
-    "slug": "view-rql=Any%20X%2CT%2CCD%20ORDERBY%20CD%20DESC%20WHERE%20X%20is%20IN%28MicroBlogEntry%2C%20BlogEntry%29%2C%20X%20title%20T%2C%20X%20creation_date%20CD&page_size=10",
-    "updated": "2012-11-08T10:01:44Z"
-  },
-  {
-    "collection": "logilab.org",
-    "slug": "view?rql=Any%20X%2CT%2CCD%20ORDERBY%20CD%20DESC%20WHERE%20X%20is%20IN%28MicroBlogEntry%2C%20BlogEntry%29%2C%20X%20title%20T%2C%20X%20creation_date%20CD&page_size=10",
-    "updated": "2012-11-08T09:55:07Z"
-  },
-  {
-    "collection": "logilab.org",
-    "slug": "view%3Frql%3DAny%2520X%252CT%252CCD%2520ORDERBY%2520CD%2520DESC%2520WHERE%2520X%2520is%2520IN%2528MicroBlogEntry%252C%2520BlogEntry%2529%252C%2520X%2520title%2520T%252C%2520X%2520creation_date%2520CD%26page_size%3D10",
-    "updated": "2012-11-08T09:49:36Z"
-  },
-  {
     "collection": "en.wikipedia.org",
     "slug": "wiki-Stories",
     "updated": "2012-11-06T22:25:11Z"
