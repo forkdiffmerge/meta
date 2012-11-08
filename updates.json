@@ -1,6 +1,11 @@
 [
   {
     "collection": "logilab.org",
+    "slug": "view-rql-Any%20X%2CT%2CCD%20ORDERBY%20CD%20DESC%20WHERE%20X%20is%20IN%28MicroBlogEntry%2C%20BlogEntry%29%2C%20X%20title%20T%2C%20X%20creation_date%20CD-page_size-10",
+    "updated": "2012-11-08T09:38:04Z"
+  },
+  {
+    "collection": "logilab.org",
     "slug": "view?rql=Any%20X%2CT%2CCD%20ORDERBY%20CD%20DESC%20WHERE%20X%20is%20IN%28MicroBlogEntry%2C%20BlogEntry%29%2C%20X%20title%20T%2C%20X%20creation_date%20CD&page_size=10",
     "updated": "2012-11-08T09:37:20Z"
   },
