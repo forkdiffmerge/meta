@@ -1,6 +1,11 @@
 [
   {
     "collection": "en.wikipedia.org",
+    "slug": "wiki-Stories",
+    "updated": "2012-11-09T06:23:50Z"
+  },
+  {
+    "collection": "en.wikipedia.org",
     "slug": "wiki-Bishop_of_Exeter",
     "updated": "2012-11-09T06:23:31Z"
   },
@@ -18,11 +23,6 @@
     "collection": "en.wikipedia.org",
     "slug": "wiki-Charles_Carroll_the_Settler",
     "updated": "2012-11-09T06:08:06Z"
-  },
-  {
-    "collection": "en.wikipedia.org",
-    "slug": "wiki-Stories",
-    "updated": "2012-11-09T05:58:02Z"
   },
   {
     "collection": "logilab.org",
