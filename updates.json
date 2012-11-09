@@ -1,13 +1,13 @@
 [
   {
+    "collection": "en.wikipedia.org",
+    "slug": "wiki-Stories",
+    "updated": "2012-11-09T04:47:26Z"
+  },
+  {
     "collection": "logilab.org",
     "slug": "view-rql-Any-X,T,CD-ORDERBY-CD-DESC-WHERE-X-is-IN(MicroBlogEntry,-BlogEntry),-X-title-T,-X-creation_date-CD-page_size-10",
     "updated": "2012-11-08T10:38:32Z"
-  },
-  {
-    "collection": "en.wikipedia.org",
-    "slug": "wiki-Stories",
-    "updated": "2012-11-06T22:25:11Z"
   },
   {
     "collection": "en.wikipedia.org",
