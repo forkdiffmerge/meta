@@ -1,5 +1,10 @@
 [
   {
+    "collection": "p2pfoundation.net",
+    "slug": "Unhosted",
+    "updated": "2012-11-09T06:25:58Z"
+  },
+  {
     "collection": "enlightenedstructure.org",
     "slug": "Software_Zero",
     "updated": "2012-11-09T06:24:49Z"
@@ -43,11 +48,6 @@
     "collection": "en.wikipedia.org",
     "slug": "wiki-Federated_social_network",
     "updated": "2012-10-26T17:08:10Z"
-  },
-  {
-    "collection": "p2pfoundation.net",
-    "slug": "Unhosted",
-    "updated": "2012-10-23T06:41:08Z"
   },
   {
     "collection": "bettermeans.com",
