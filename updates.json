@@ -1,5 +1,10 @@
 [
   {
+    "collection": "enlightenedstructure.org",
+    "slug": "Software_Zero",
+    "updated": "2012-11-28T22:55:12Z"
+  },
+  {
     "collection": "docs.google.com",
     "slug": "document-pub-id-14YddTN1rt_F4tMVMFZqfFuOOiKfJsQ3rr9RfLUP36Kk",
     "updated": "2012-11-24T11:36:12Z"
@@ -28,11 +33,6 @@
     "collection": "p2pfoundation.net",
     "slug": "Unhosted",
     "updated": "2012-11-09T06:25:58Z"
-  },
-  {
-    "collection": "enlightenedstructure.org",
-    "slug": "Software_Zero",
-    "updated": "2012-11-09T06:24:49Z"
   },
   {
     "collection": "en.wikipedia.org",
