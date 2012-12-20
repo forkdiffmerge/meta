@@ -1,6 +1,11 @@
 [
   {
     "collection": "en.wikipedia.org",
+    "slug": "wiki-Technological_singularity",
+    "updated": "2012-12-20T01:41:40Z"
+  },
+  {
+    "collection": "en.wikipedia.org",
     "slug": "wiki-Special:Random",
     "updated": "2012-12-20T01:33:46Z"
   },
@@ -13,11 +18,6 @@
     "collection": "en.wikipedia.org",
     "slug": "wiki-Stories",
     "updated": "2012-12-20T01:20:21Z"
-  },
-  {
-    "collection": "en.wikipedia.org",
-    "slug": "wiki-Technological_singularity",
-    "updated": "2012-12-18T06:57:01Z"
   },
   {
     "collection": "unifytheworld.com",
