@@ -1,6 +1,11 @@
 [
   {
     "collection": "en.wikipedia.org",
+    "slug": "wiki-Special:Random",
+    "updated": "2012-12-20T01:24:49Z"
+  },
+  {
+    "collection": "en.wikipedia.org",
     "slug": "wiki-XDI",
     "updated": "2012-12-20T01:23:43Z"
   },
