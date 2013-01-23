@@ -1,6 +1,11 @@
 [
   {
     "collection": "en.wikipedia.org",
+    "slug": "wiki-Special:Random",
+    "updated": "2013-01-23T21:37:13Z"
+  },
+  {
+    "collection": "en.wikipedia.org",
     "slug": "wiki-Technological_singularity",
     "updated": "2012-12-24T02:04:01Z"
   },
@@ -8,11 +13,6 @@
     "collection": "liveingreatness.com",
     "slug": "core-protocols-check-in",
     "updated": "2012-12-23T09:52:31Z"
-  },
-  {
-    "collection": "en.wikipedia.org",
-    "slug": "wiki-Special:Random",
-    "updated": "2012-12-20T01:33:46Z"
   },
   {
     "collection": "en.wikipedia.org",
